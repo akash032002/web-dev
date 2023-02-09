@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash</title>
+</head>
+<body>
+<table border cellpadding="17px" cellspacing="3px" table bgcolor="violet"  bordercolor="black">
+    <thead>
+        <tr>
+            <th colspan="7"> Time Table</th>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thusday</th>
+            <th>friday</th>
+           <th>Saturuday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>7.00-7.40</th>
+            <td roWspan="2">Physics 1</td>
+            <td>Physics 1</td>
+            <td>Physics 3</td>
+            <td>Physics 4</td>
+            <td>Physics 5</td>
+            <td>Physics 6</td>
+
+        </tr>
+
+        <tr>
+            <th>7.40-8.30</th>
+            <td>Physics 3</td>
+            <td>Physics 5</td>
+            <td>Physics 2</td>
+            <td>Physics 1</td>
+            <td>Physics 4</td>
+            <!-- <td>Physics 6</td> -->
+
+        </tr>
+
+        <tr>
+            <th colspan="7">Recess</th>
+           
+        </tr>
+
+        <tr>
+            <th>9.00-9.30</th>
+            <td>Physics 1</td>
+            <td>Physics 2</td>
+            <td>Physics 3</td>
+            <td>Physics 4</td>
+            <td>Physics 5</td>
+            <td>Physics 6</td>
+
+        </tr>
+
+        <tr>
+            <th>9.30-10.00 </th>
+            <td>Physics 3</td>
+            <td>Physics 5</td>
+            <td>Physics 2</td>
+            <td>Physics 1</td>
+            <td>Physics 4</td>
+            <td>Physics 6</td>
+
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
